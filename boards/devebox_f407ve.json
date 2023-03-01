@@ -1,7 +1,7 @@
 {
     "build": {
       "arduino": {
-        "variant_h": "variant_DevEBoxF407VX.h"
+        "variant_h": "variant_DEVEBOX_F407VX.h"
       },
       "core": "stm32",
       "cpu": "cortex-m4",
